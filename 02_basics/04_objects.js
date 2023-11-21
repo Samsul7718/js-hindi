@@ -37,5 +37,11 @@ const users=[
     email:"sam123@gmail.com"
    },
 ]
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+const course={
+    coursename:"js hindi",
+    courseprice:"800",
+    courseInstructor:"sam"
+}
+const
