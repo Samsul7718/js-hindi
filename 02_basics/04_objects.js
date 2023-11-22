@@ -44,4 +44,13 @@ const course={
     courseprice:"800",
     courseInstructor:"sam"
 }
-const
+// const course.courseInstructor;
+const {courseInstructor: instructor}=course;
+// console.log(courseInstructor);
+console.log(instructor);
+
+// destructing
+// const navbar=({company})=>{
+
+// }
+// navbar(company="sam");
